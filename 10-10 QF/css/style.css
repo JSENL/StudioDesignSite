@@ -1,0 +1,65 @@
+div.studio
+ {
+    font-family: "Matura MT Script Capitals",times, serif;
+        font-size: 250%;
+          text-align: center;
+          color: grey;
+ }
+header
+{
+	background-color: black;
+    border: 10px solid grey;
+  
+}
+nav.top
+{
+text-align: right;	
+ display: inline;
+}
+.homebody, .abou
+{
+border: 5px solid grey;
+background-size: contain;
+color: grey;
+font-size: 150%;
+font-family: "Baskerville Old Face",times, serif;
+}
+
+body
+{
+background-image: url("../image/backgroundii.jpg");	
+background-size: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+ 
+ div.grey
+ {
+ border:8px grey;
+ color:grey;
+ font-family: "Baskerville Old Face",times, serif;
+ }
+
+div.work
+{
+display: inline;
+float: right;
+padding-left: 20px;
+}
+
+
+ footer ul li
+ {
+display: inline;
+text-align: right;
+float: center;
+ font-family: "Arial Black",times, serif;
+ }
+
+
+.check
+{
+border:10px solid purple;
+border-style: dotted;
+}
